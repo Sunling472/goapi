@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Sunling472/goapi/pkg/rftools"
+	"github.com/Sunling472/goapi/rftools"
 	"github.com/Sunling472/goapi/types/methods"
 )
 

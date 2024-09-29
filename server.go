@@ -6,7 +6,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/Sunling472/goapi/pkg/oapi"
+	"github.com/Sunling472/goapi/oapi"
 	"github.com/Sunling472/goapi/router"
 )
 
